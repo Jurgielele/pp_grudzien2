@@ -1,0 +1,10 @@
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\bin\Debug\netcoreapp3.1\9.exe
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\bin\Debug\netcoreapp3.1\9.deps.json
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\bin\Debug\netcoreapp3.1\9.runtimeconfig.json
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\bin\Debug\netcoreapp3.1\9.runtimeconfig.dev.json
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\bin\Debug\netcoreapp3.1\9.dll
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\bin\Debug\netcoreapp3.1\9.pdb
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\obj\Debug\netcoreapp3.1\9.AssemblyInfoInputs.cache
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\obj\Debug\netcoreapp3.1\9.AssemblyInfo.cs
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\obj\Debug\netcoreapp3.1\9.dll
+C:\Users\jurgi\Source\Repos\zadania_pp_grudzien\9\obj\Debug\netcoreapp3.1\9.pdb
